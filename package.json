@@ -1,9 +1,10 @@
 {
-    "name": "express-HelloWorld",
-    "description": "Hello World ExpressJS WebService",
+    "name": "Tron-Wallet-API",
+    "description": "Tron Wallet API",
     "version": "0.0.1",
     "private": true,
     "dependencies": {
+        "@tronprotocol/wallet-api": "0.0.34",
         "express": "4.16.2"
     },
     "devDependencies": {
